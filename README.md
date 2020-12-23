@@ -4,11 +4,11 @@
 
 
 Credential for admin panel :
-username : admin
+username : admin,
 Password : 12345
 
 Credential for staff :
-username : amitha@gmail.com
+username : amitha@gmail.com,
 Password : 12345
 
 For user Refrence / Tracking number 
